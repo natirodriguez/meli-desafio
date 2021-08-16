@@ -34,6 +34,8 @@ Luego de realizado esto, es necesario correr los test: <br/>
 Para la cobertura de los test, utilice Jacoco. El actual porcentaje de test realizados en todo el ejercicio es de 82%.
 Para poder visualizarlo, ir a: _target/site/jacoco_ y abrir el archivo _index.html_.
 
+![Jacoco.png](https://github.com/natirodriguez/meli-desafio/blob/main/jacoco.png)
+
 ## Prueba de stress
 Para realizar las pruebas de stress utilice la página: https://www.loader.io/ <br/>
 <b> URL con un ejemplo de 1000 clients: </b>
